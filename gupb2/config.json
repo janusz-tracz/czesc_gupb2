@@ -1,0 +1,36 @@
+{
+    "arenas": [
+        "archipelago",
+        "wasteland",
+        "dungeon",
+        "fisher_island"
+    ],
+    "controllers": [
+        {
+            "__is-obj": true,
+            "package": "gupb2.controller.random",
+            "init/call": true,
+            "obj-name": "RandomController",
+            "args": ["Malkolm"]
+        },
+        {
+            "__is-obj": true,
+            "package": "gupb2.controller.random",
+            "init/call": true,
+            "obj-name": "RandomController",
+            "args": ["Jurij"]
+        },
+        {
+            "__is-obj": true,
+            "package": "gupb2.controller.random",
+            "init/call": true,
+            "obj-name": "RandomController",
+            "args": ["Mikhail"]
+        }
+    ],
+    "start_balancing": false,
+    "visualise": false,
+    "show_sight": null,
+    "runs_no": 300,
+    "profiling_metrics": []
+}

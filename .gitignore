@@ -1,0 +1,8 @@
+.dmypy.json
+.idea/
+*.pyc
+venv/
+.run/
+results/
+*.DS_STORE
+gupb/controller/botelka_ml/tmp/
